@@ -9,6 +9,8 @@ Test examples for face detection algorithms can be found in /examples/face_detec
 
 Some utility functions can be found in /datautils
 
-# Datasets Downloads
+## Datasets Download link
+
 Baidu Cloud Download
-链接：https://pan.baidu.com/s/1M8rapkD8L2kSP0VLvpis0Q 密码：7inq
+
+Link：https://pan.baidu.com/s/1M8rapkD8L2kSP0VLvpis0Q Password：7inq
