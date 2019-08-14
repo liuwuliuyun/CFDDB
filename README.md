@@ -1,6 +1,8 @@
-# CFDDB
-## Classroom Face Detection Dataset
+## CFDDB (Classroom Face Detection Dataset)
 
+Author: Yun Liu
+
+## Introduction
 CFDDB serves as an imperceptible face detection benchmark. 
 
 Dataset analysis in Chinese can be found in /paper/thesis.pdf.
